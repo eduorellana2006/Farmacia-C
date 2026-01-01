@@ -1,0 +1,5 @@
+# Ignorar ejecutables (sin extension y con extension)
+sistemaFarmaciaV1.1
+*.exe
+*.out
+*.o
