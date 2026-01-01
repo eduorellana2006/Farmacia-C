@@ -1,1 +1,15 @@
-1111 Paracetamol_600
+1001 Paracetamol
+1002 Ibuprofeno
+1003 Amoxicilina
+1004 Omeprazol
+1005 Loratadina
+1006 Metformina
+1007 Enalapril
+1008 Salbutamol
+1009 Diclofenaco
+1010 Aspirina
+1011 Clonazepam
+1012 Naproxeno
+1013 Atorvastatina
+1014 Ranitidina
+1015 Azitromicina
